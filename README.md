@@ -1,4 +1,4 @@
-# dino-animation-keele
+# animation-dino-keele
 Part of coursework assignment for Computer Animation and Multimedia module at Keele University, spring semester 2022.
 
 ## What's it about
