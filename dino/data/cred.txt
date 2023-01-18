@@ -1,0 +1,58 @@
+*A Happy Dino
+
+Sprite animation created by
+CSC-10026 student #21029058.
+
+- - - - - - - 
+
+*Illustrations
+
+Sprite sheet of 8 hand-drawn poses
+Background image drawn using Paint 3D
+
+*Score
+
+Fallen Leaves by Hina (CC0 1.0).
+Cut and compressed using Audacity
+
+*Credits
+
+A textfile loaded as strings 
+
+- - - - - - -
+
+*Animation
+
+A two scene sketch
+
+*Scene 1: Dinosaur
+
+Control of an 8-pose dino sprite and scrolling background. 
+Principles of Animation applied to add joy to dino; appeal 
+and squash and stretch especially taken into account.
+
+*Scene 2: Credits
+
+Vertical scrolling credits with centered text and alternating 
+font usage. Coloured background with randomly animated stars.
+
+Fonts used: 
+Shorelines for headings
+Bahnshrift for text
+
+- - - - - - -
+
+*Programming
+
+Processing (Java) using i. a. PImage, PFont, arrays, 2D primitives,
+modular arithmetic, loops and if-statements, loading files.
+
+Libraries used:
+Sound
+
+- - - - - - -
+
+This animation is a part of module assessment for Computer Animation 
+and Multimedia, CSC-10026, Keele University, spring semester 2022.
+
+Thank you for watching!
